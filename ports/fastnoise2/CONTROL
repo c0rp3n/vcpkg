@@ -1,0 +1,4 @@
+Source: fastnoise2
+Version: 0.8.0-alpha
+Description: Modular node based noise generation library using SIMD, modern C++17 and templates
+Homepage: https://github.com/Auburn/FastNoise2
